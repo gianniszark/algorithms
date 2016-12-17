@@ -9,7 +9,7 @@ as well as the number of your examiner.
 
 - **Input** :
 
-First line is comprised of two numbers, N and K.
+First line is comprised of two numbers, N and K. </br>
 
 Second line is comprised of N numbers, the delay d[i] of each examiner.
 
