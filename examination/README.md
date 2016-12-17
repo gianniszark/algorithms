@@ -21,7 +21,9 @@ Number of our examiner and the time we finish, seperated by a space and followed
 
 1 <= N <= 10^5 </br>
 1 <= d[i] <= 10^5 </br>
-1 <= K <= 10^9
+1 <= K <= 10^9 </br>
+Time :  1 sec </br>
+Memory :  64mb
 
 **Examples** :
 
