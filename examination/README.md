@@ -20,15 +20,25 @@ Number of our examiner and the time we finish, seperated by a space and followed
 
 **Example** :
 
-Input:                                Output:
+Input:                                
 
-2   4                                 1   20
+2   4                                 
 
 10  5
 
 
+Output:
+
+1   20
 
 
-3   3                                 3   1
+
+Input:
+
+3   3                                 
 
 1  1  1
+
+Output:
+
+3   1
