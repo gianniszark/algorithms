@@ -17,8 +17,19 @@ Second line is comprised of N numbers, the delay d[i] of each examiner.
 
 Number of our examiner and the time we finish, seperated by a space and followed by a newline character.
 
-**Example** :
+**Examples** :
 
 Input : </br>
-2   4
+2   4 </br>
 10  5
+
+Output: </br>
+1  20
+
+
+Input: </br>
+3  3  </br>
+1  1  1
+
+Output : </br>
+3  1
