@@ -13,9 +13,15 @@ First line is comprised of two numbers, N and K. </br>
 Second line is comprised of N numbers, the delay d[i] of each examiner.
 
 
-- **Output** :
+- **Output** :</br>
 
 Number of our examiner and the time we finish, seperated by a space and followed by a newline character.
+
+- **Constraints** :
+
+1 <= N <= 10^5 </br>
+1 <= d[i] <= 10^5 </br>
+1 <= K <= 10^9
 
 **Examples** :
 
