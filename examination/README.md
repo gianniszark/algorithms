@@ -3,7 +3,7 @@
 - **Problem Description** :
 
 You are in school and waiting in line to be examined for the algorithms lesson! There are N examiners and each examiner spends
-d[i] time examining each student. If you have the Kth place in the queue, compute the time you will finish the examination, 
+d[i] time examining each student. If you hold the Kth place in the queue, compute the time you will finish the examination, 
 as well as the number of your examiner.
 
 
