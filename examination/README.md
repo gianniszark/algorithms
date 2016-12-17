@@ -10,7 +10,6 @@ as well as the number of your examiner.
 - **Input** :
 
 First line is comprised of two numbers, N and K. </br>
-
 Second line is comprised of N numbers, the delay d[i] of each examiner.
 
 
@@ -20,25 +19,19 @@ Number of our examiner and the time we finish, seperated by a space and followed
 
 **Example** :
 
-Input:                                
-
-2   4                                 
-
+Input: </br>                               
+2   4  </br>                               
 10  5
 
 
-Output:
-
+Output:</br>
 1   20
 
 
 
-Input:
+Input:</br>
+3   3 </br>                                
+1  1  1 
 
-3   3                                 
-
-1  1  1
-
-Output:
-
+Output: </br>
 3   1
